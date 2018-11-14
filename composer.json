@@ -1,0 +1,14 @@
+{
+  "name": "phxsolution/formbuilder",
+  "type": "magento-module",
+  "homepage": "https://github.com/Phxsolution_Formbuilder",
+  "description": "Phxsolution_Formbuilder",
+  "authors": [
+    {
+      
+    }
+  ],
+  "require": {
+    
+  }
+}
